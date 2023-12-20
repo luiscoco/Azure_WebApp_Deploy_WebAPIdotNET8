@@ -88,3 +88,4 @@ Place the Web API in a folder
 
 ![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/f50c83a4-1aa7-498f-80f0-eda0692c6372)
 
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/5dd7dede-fd0a-47f2-bf50-ce8d5bc55f81)
