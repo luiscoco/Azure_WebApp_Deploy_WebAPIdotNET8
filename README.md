@@ -72,4 +72,7 @@ Skip creating a new Application Insights resource
 
 ![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/a44a6ce6-7416-4edc-8167-77a380ca1e85)
 
+Create a new deployment
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/f8de1fff-15d0-4cb3-989c-6b086a7086b4)
 
