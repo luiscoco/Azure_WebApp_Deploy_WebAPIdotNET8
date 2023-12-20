@@ -36,8 +36,40 @@ In the left menu select Azure extension
 
 ![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/b8335dd1-73c1-4306-bd21-88b10a7cfee1)
 
+Set the .NET 8 Web API name
 
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/7aa860b4-a31e-4a2b-b8a0-001f124948f3)
 
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/bd04565f-ad23-49b3-9fb4-ca91dfb5db18)
 
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/34bd7db7-1038-41c1-8a01-dc7dd6ea7777)
+
+Select the .NET 8 framework
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/c94fff53-3c13-4d3c-beb4-4960779acbd8)
+
+Select the operating system linux
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/9f1b0ab8-5a65-46de-9ac8-394295a4a392)
+
+Select the location **East US**
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/17768750-f27e-49b4-8324-11974f2d7f07)
+
+Create a new Service Plan
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/1b82ad3b-c8da-478a-8e33-a8ab2f3b2443)
+
+Enter the new Service Plan name
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/94ae4dbd-7d32-408a-9798-1b224aca3c22)
+
+Select the App Service plan **Basic (B1)**
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/d3135a2b-b6aa-478f-96bc-d9f4833679f2)
+
+Skip creating a new Application Insights resource
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/a44a6ce6-7416-4edc-8167-77a380ca1e85)
 
 
