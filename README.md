@@ -28,8 +28,16 @@ dotnet run
 
 ![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/64dd41e1-b2f3-4fc0-9f2f-4e7d7f8bbada)
 
-
-
 ## 2. Deploy the application to Azure Web App service
+
+In the left menu select Azure extension
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/81c19f70-5e05-4af2-88c9-46f81f72202d)
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/b8335dd1-73c1-4306-bd21-88b10a7cfee1)
+
+
+
+
 
 
