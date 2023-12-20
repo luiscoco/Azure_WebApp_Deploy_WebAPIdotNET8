@@ -76,3 +76,7 @@ Create a new deployment
 
 ![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/f8de1fff-15d0-4cb3-989c-6b086a7086b4)
 
+Place the Web API in a folder
+
+![image](https://github.com/luiscoco/Azure_WebApp_Deploy_WebAPIdotNET8/assets/32194879/4d79748a-422e-4e0b-84ae-b42f214e362b)
+
